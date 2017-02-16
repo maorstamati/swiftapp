@@ -21,7 +21,7 @@ class ViewController: UIViewController {
         print(tapCount)
         
         if (tapCount == 10) {
-             otherLabel.text = "Tapped the button 10 times!!"
+             otherLabel.text = "Tapped the button 10 times!"
         }
        
         
